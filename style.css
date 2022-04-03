@@ -1,0 +1,41 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+.material-icons.orange600 { background-color: #fff9e1; color: #ffd012; }
+.material-icons.blue600 { background-color: #f1f5ff; color: #2e4ecc; }
+
+#brand{
+    color: #1f3e72;
+}
+
+#title{
+    padding-top: 140px;
+    font-weight: bolder;
+    color: #1f3e72;
+}
+
+#titletext{
+    font-size: larger;
+}
+
+.marca {
+    filter: grayscale(100%);
+    width: 80%;
+}
+
+#brands{
+    margin-top: 6em;
+    margin-bottom: 6em;
+}
+
+h2{
+    color: #1f3e72;
+    
+}
